@@ -6,6 +6,7 @@ import rehypeKatex from 'rehype-katex';
 
 // https://astro.build/config
 export default defineConfig({
+	output: 'static', // Tells Astro to build optimized pre-rendered HTML files
     integrations: [
         starlight({
             title: 'My Docs',
