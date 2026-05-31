@@ -24,6 +24,7 @@ export default defineConfig({
 						{ label: 'Day 3 Practice', slug: 'week-1-day-3' },
 						{ label: 'Day 4 Practice', slug: 'week-1-day-4' },	
 						{ label: 'Day 5 Practice', slug: 'week-1-day-5' },
+						{ label: '📊 Week 1 Strategic Blueprint', slug: 'week-1-blueprint' }
                     ],
                 },
                 {
