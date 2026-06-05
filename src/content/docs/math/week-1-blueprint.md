@@ -3,11 +3,11 @@ title: "Week 1 Master Blueprint: The Foundation Matrix"
 description: "Syllabus mapping, parent-student execution matrix, and core DP-readiness conceptual refreshers."
 ---
 
-## 🗺️ Week 1 Blueprint: The Foundation Matrix
+## Week 1 Blueprint: The Foundation Matrix
 
 The primary goal of Week 1 is **algebraic fluency and speed**. In MYP, students are often given ample time to solve isolated problems. In DP, algebra is merely the *language* used to solve much larger, multi-step modeling problems.
 
-### 📅 Weekly Execution Schedule
+### Weekly Execution Schedule
 
 | Day | Focus Area | High School Student Action | Parent Check-In Question |
 | :--- | :--- | :--- | :--- |
