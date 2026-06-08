@@ -38,6 +38,20 @@ export default defineConfig({
 
                     ],
                 },
+                {
+                    label: 'Week 3 Physics: Algebra under Physics Constraints',
+                    items: [
+                        { label: 'Day 9: Symbolic Rearrangement of Physics Formula', slug: 'week-3-day-9' },
+                        { label: 'Day 10: Simultaneous Equations in Physics', slug: 'week-3-day-10' },
+                        { label: 'Day 11: Limiting Case Analysis', slug: 'week-3-day-11' },
+                        { label: '📊 Week 3 Strategic Blueprint', slug: 'week-3-blueprint' }
+
+                        
+
+
+                    ],
+                },
+
                 // === 📐 MATH AA HL BRIDGING MODULES ===
                 {
                     label: 'Week 1 Math: Algebra Foundations',
@@ -62,10 +76,20 @@ export default defineConfig({
                         { label: 'Day 5: Analytical Asymptotes', slug: 'math/week-2-day-5' },
                         { label: '📊 Week 2 Strategic Blueprint', slug: 'math/week-2-blueprint' }
 
-
-
-                        
+        
                 
+                    ],
+
+                },
+                {
+                    label: 'Week 3 Math: Graph Transformations & Coordinate Geometry',
+                    items: [
+                        { label: 'Day 1: Linear Transformations & Invariant Tracking ', slug: 'math/week-3-day-1' },
+                        { label: 'Day 2: Stretches, Reflections, and Modulus Transformations', slug: 'math/week-3-day-2' },
+                        { label: 'Day 3: Midpoints & Perpendicular Gradients', slug: 'math/week-3-day-3' },
+                        { label: 'Day 4: Equations of Straight Lines', slug: 'math/week-3-day-4' },
+                        { label: 'Day 5: Intercepts and Vector Translations of Graphs', slug: 'math/week-3-day-5' },
+                        { label: '📊 Week 3 Strategic Blueprint', slug: 'math/week-3-blueprint' }
                     ],
                 },
                 {
