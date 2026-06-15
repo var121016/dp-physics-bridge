@@ -59,7 +59,8 @@ export default defineConfig({
                         { label: 'Day 13: Newtons Laws — Equation Writing', slug: 'week-4-day-13' },
                         { label: 'Day 13: FBD Asset Cache', slug: 'week-4-day-13-fbd-assets' },
                         { label: 'Day 14: Dynamics in two dimensions', slug: 'week-4-day-14' },
-                        { label: 'Day 13: FBD Asset Cache', slug: 'week-4-day-14-fbd-assets' }
+                        { label: 'Day 14: FBD Asset Cache', slug: 'week-4-day-14-fbd-assets' },
+                        { label: '📊 Week 4 Strategic Blueprint', slug: 'week-4-blueprint' }
                         
                 
 
