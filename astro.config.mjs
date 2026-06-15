@@ -51,6 +51,20 @@ export default defineConfig({
 
                     ],
                 },
+                {
+                    label: 'Week 4 Physics: Free Body Diagrams & Newtons Laws',
+                    items: [
+                        { label: 'Day 12: Free Body Foundations', slug: 'week-4-day-12' },
+                        { label: 'Day 12: FBD Asset Cache', slug: 'week-4-day-12-fbd-assets' },
+                        { label: 'Day 13: Newtons Laws — Equation Writing', slug: 'week-4-day-13' },
+                        { label: 'Day 13: FBD Asset Cache', slug: 'week-4-day-13-fbd-assets' },
+                        { label: 'Day 14: Dynamics in two dimensions', slug: 'week-4-day-14' },
+                        { label: 'Day 13: FBD Asset Cache', slug: 'week-4-day-14-fbd-assets' }
+                        
+                
+
+                    ],
+                },
 
                 // === 📐 MATH AA HL BRIDGING MODULES ===
                 {
@@ -90,6 +104,18 @@ export default defineConfig({
                         { label: 'Day 4: Equations of Straight Lines', slug: 'math/week-3-day-4' },
                         { label: 'Day 5: Intercepts and Vector Translations of Graphs', slug: 'math/week-3-day-5' },
                         { label: '📊 Week 3 Strategic Blueprint', slug: 'math/week-3-blueprint' }
+                    ],
+                },
+                {
+                    label: 'Week 4 Math: Logarithms & Exponential Analysis',
+                    items: [
+                        { label: 'Day 1: Introduction to Logarithms', slug: 'math/week-4-day-1' },
+                        { label: 'Day 2: Core Laws of Logarithms', slug: 'math/week-4-day-2' },
+                        { label: 'Day 3: Natural Logarithms & Base e', slug: 'math/week-4-day-3' },
+                        { label: 'Day 4: Solving Exponential Equations', slug: 'math/week-4-day-4' },
+                        { label: 'Day 5: Change of Base & Logarithmic Modeling', slug: 'math/week-4-day-5' },
+                        { label: '📊 Week 4 Strategic Blueprint', slug: 'math/week-4-blueprint' }
+                        
                     ],
                 },
                 {
