@@ -120,6 +120,19 @@ export default defineConfig({
                     ],
                 },
                 {
+                    label: 'Week 5 Math: Advanced Sequences, Series and Limits',
+                    items: [
+                        { label: 'Day 1: Arithmetic Progressions & Linear Growth', slug: 'math/week-5-day-1' },
+                        { label: 'Day 2: Arithmetic Series & Sigma Notation', slug: 'math/week-5-day-2' },
+                        { label: 'Day 3: Geometric Progressions & Exponential Steps', slug: 'math/week-5-day-3' },
+                        { label: 'Day 4: Geometric Series & Financial Modeling', slug: 'math/week-5-day-4' },
+                        { label: 'Day 5: Infinite Geometric Series & Convergence', slug: 'math/week-5-day-5' },
+                        { label: '📊 Week 5 Strategic Blueprint', slug: 'math/week-5-blueprint' }
+                        
+                        
+                    ],
+                },
+                {
                     label: 'Reference',
                     items: [{ autogenerate: { directory: 'reference' } }],
                 },
