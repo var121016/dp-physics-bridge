@@ -66,6 +66,16 @@ export default defineConfig({
 
                     ],
                 },
+                {
+                    label: 'Week 5 Physics: Energy Methods - HL Differentiator',
+                    items: [
+                        { label: 'Day 15: Work, Kinetic Energy and Work Energy Theorem', slug: 'week-5-day-15' },
+                        { label: 'Day 16: Gravitational PE & Conservation of Mechanical Energy', slug: 'week-5-day-16' },
+                        
+                        
+
+                    ],
+                },
 
                 // === 📐 MATH AA HL BRIDGING MODULES ===
                 {
@@ -128,6 +138,19 @@ export default defineConfig({
                         { label: 'Day 4: Geometric Series & Financial Modeling', slug: 'math/week-5-day-4' },
                         { label: 'Day 5: Infinite Geometric Series & Convergence', slug: 'math/week-5-day-5' },
                         { label: '📊 Week 5 Strategic Blueprint', slug: 'math/week-5-blueprint' }
+                        
+                        
+                    ],
+                },
+                {
+                    label: 'Week 6 Math: Trigonometry & Circular Functions',
+                    items: [
+                        { label: 'Day 1: Radian Measure & Circular Sectors', slug: 'math/week-6-day-1' },
+                        { label: 'Day 2: The Unit Circle & Quadrant Maps', slug: 'math/week-6-day-2' },
+                        { label: 'Day 3: The Pythagorean Trigonometric Identity', slug: 'math/week-6-day-3' },
+                        { label: 'Day 4: Non-Right Triangle Geometry', slug: 'math/week-6-day-4' },
+                        { label: 'Day 5: The Ambiguous Case of the Sine Rule', slug: 'math/week-6-day-5' },
+                        { label: '📊 Week 6 Strategic Blueprint', slug: 'math/week-6-blueprint' }
                         
                         
                     ],
